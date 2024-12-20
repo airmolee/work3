@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Кирилл",
+    "birthDate": "2004-06-05",
+    "email": "Kirill@gmail.com"
+  },
+  {
+    "name": "Денис",
+    "birthDate": "2001-02-23",
+    "email": "Denis@gmail.com"
+  },
+  {
+    "name": "Тимур",
+    "birthDate": "1997-04-17",
+    "email": "Timur@gmail.com"
+  },
+  {
+    "name": "Иван",
+    "birthDate": "1954-10-07",
+    "email": "Ivan@gmail.com"
+  },
+  {
+    "name": "Наташа",
+    "birthDate": "2016-09-18",
+    "email": "Natasha@gmail.com"
+  },
+  {
+    "name": "Оля",
+    "birthDate": "1982-09-14",
+    "email": "Olya@gmail.com"
+  }
+]
